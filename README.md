@@ -23,9 +23,3 @@ yarn run build
 ```sh
 yarn run test
 ```
-
-### Lints and fixes files
-
-```sh
-yarn run lint
-```
