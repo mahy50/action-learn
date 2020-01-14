@@ -29,7 +29,3 @@ yarn run test
 ```sh
 yarn run lint
 ```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
